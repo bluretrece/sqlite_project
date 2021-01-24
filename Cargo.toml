@@ -1,0 +1,10 @@
+[package]
+name = "sqlite-rust"
+version = "0.1.0"
+authors = ["Alexandre Chaintreuil <alexandre.chaintreuil@gmail.com>"]
+
+[dependencies]
+text_io = "0.1.7"
+byteorder = "1.2.6"
+termcolor = "1.1"
+prettytable-rs = "^0.8"
